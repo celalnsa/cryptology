@@ -1,0 +1,1 @@
+FileEncryption.exe < input.txt > output.txt
